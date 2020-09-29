@@ -1,5 +1,5 @@
-Discord Dev Scripts : https://discord.gg/5EDP4KH
-### [EN]  [FR]  https://youtu.be/5cGgQSnExMg
+
+### [EN]  [FR]
 
 ###### Allow Players to | Permet au Joueurs de 
 - [x] Sell Legals Item to NPC ( for jobs )  	| | Vendre des Item legaux au PNJ ( Pour le Boulot )
@@ -7,7 +7,6 @@ Discord Dev Scripts : https://discord.gg/5EDP4KH
 - [x] Cops Get Alerts when Dealing (1/Chance)   	| | La Police est informé des Deals (1/Chance)
 
 # [EN] Selling Item to NPC Script for Fivem [ ESX ]
-Created by Selene Desna on August 15 & 16, 2020 for [ Holliday's RP https://discord.gg/rzPAeFr ]
 
 This Script need the server to have the wanted items in your database.
 If you need help to modify it, you can contact me on GitHub.
@@ -34,7 +33,6 @@ To add a item to sell copy the following line ( Explained more deeply in Config.
 
 
 # [FR] Script de Vente d'Item au PNJ pour Fivem [ ESX ]
-Creer par Selene Desna les 15 & 16 aout 2020 pour [ Holliday's RP https://discord.gg/rzPAeFr ]
 
 Ce Script à besoin que votre serveur est les items choisis dans la base de donnée.
 Si vous avez besoin d'aide afin de le modifier contactez moi sur GitHub.
